@@ -1,5 +1,5 @@
 # Dashboard-Of-US-Economic-Data
-Analyzing US Economy for practicing Jupityer Notebook
+Simple analysis of US Economy for practicing Jupityer Notebook
 
 <br>
 <br>
